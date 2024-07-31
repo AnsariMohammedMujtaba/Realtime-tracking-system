@@ -36,7 +36,8 @@ Follow these steps to install and set up the Real-Time Tracking System:
 
 ### Prerequisites
 
-- Node.js and npm installed
+- Node.js and npm
+- socket.io and ejs
 
 ### Steps
 
