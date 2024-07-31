@@ -46,5 +46,7 @@ Follow these steps to install and set up the Real-Time Tracking System:
 git clone https://github.com/yourusername/realtime-tracking-system.git
 cd realtime-tracking-system
 npx nodemone app.js
+```
 
-After starting both the backend and frontend servers, open your browser and navigate to http://localhost:3000. You will see the dashboard where you can monitor and track entities in real-time.
+After starting both the backend and frontend servers,
+open your browser and navigate to http://localhost:3000. You will see the dashboard where you can monitor and track entities in real-time.
